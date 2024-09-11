@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/solibankclient/static/css/main.e6d4f787.css",
+    "main.js": "/github.io/solibankclient/static/js/main.b7659364.js",
+    "static/js/453.419a5d54.chunk.js": "/github.io/solibankclient/static/js/453.419a5d54.chunk.js",
+    "index.html": "/github.io/solibankclient/index.html",
+    "main.e6d4f787.css.map": "/github.io/solibankclient/static/css/main.e6d4f787.css.map",
+    "main.b7659364.js.map": "/github.io/solibankclient/static/js/main.b7659364.js.map",
+    "453.419a5d54.chunk.js.map": "/github.io/solibankclient/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6d4f787.css",
+    "static/js/main.b7659364.js"
+  ]
+}
